@@ -1,0 +1,14 @@
+Event Time : 2024-04-13 16:55:07
+{"@timestamp": "2024-04-13T11:25:07.550241", "source": "192.168.1.171", "destination": "10.0.0.11", "protocol": "ICMP", "sport": 39795, "dport": 39795, "msg": "Detected high severity Command and Control event involving ICMP traffic from 192.168.1.171:39795 to 10.0.0.11:39795", "alert": {"signature": "SID:7264", "category": "Command and Control", "severity": "high"}}
+{"@timestamp": "2024-04-13T11:25:07.550241", "source": "192.168.1.14", "destination": "10.0.0.185", "protocol": "UDP", "sport": 31996, "dport": 31996, "msg": "Detected high severity Web Application Attack event involving UDP traffic from 192.168.1.14:31996 to 10.0.0.185:31996", "alert": {"signature": "SID:6173", "category": "Web Application Attack", "severity": "high"}}
+
+
+Event Time : 2024-04-13 17:10:32
+{"@timestamp": "2024-04-13T11:40:32.137599", "source": "192.168.1.134", "destination": "10.0.0.123", "protocol": "TCP", "sport": 25, "dport": 25, "msg": "Detected low severity File Integrity Monitoring event involving TCP traffic from 192.168.1.134:25 to 10.0.0.123:25", "alert": {"signature": "SID:6378", "category": "File Integrity Monitoring", "severity": "low"}}
+{"@timestamp": "2024-04-13T11:40:32.137599", "source": "192.168.1.79", "destination": "10.0.0.203", "protocol": "TCP", "sport": 46041, "dport": 46041, "msg": "Detected low severity Brute Force event involving TCP traffic from 192.168.1.79:46041 to 10.0.0.203:46041", "alert": {"signature": "SID:7572", "category": "Brute Force", "severity": "low"}}
+
+
+Event Time : 2024-04-13 19:25:25
+{"@timestamp": "2024-04-13T13:55:25.096523", "source": "192.168.1.0", "destination": "10.0.0.171", "protocol": "UDP", "sport": 23795, "dport": 23795, "msg": "Detected low severity Anomaly Detection event involving UDP traffic from 192.168.1.0:23795 to 10.0.0.171:23795", "signature": "SID:3003", "category": "Anomaly Detection", "severity": "low"}
+
+

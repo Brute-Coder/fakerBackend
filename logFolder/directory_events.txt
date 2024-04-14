@@ -1,0 +1,165 @@
+Event Time : 2024-04-13 10:48:54
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4832, "User": "CONTOSO", "Category": "Failure Audit", "Description": "Standard event generated for user 'CONTOSO\\admin' on computer 'fabrikam.com\\DC01'."}
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4709, "User": "FABRIKAM", "Category": "Information", "Description": "Standard event generated for user 'FABRIKAM\\user1' on computer 'contoso.com\\SERVER01'."}
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4688, "User": "FABRIKAM", "Category": "Warning", "Description": "Standard event generated for user 'FABRIKAM\\jsmith' on computer 'fabrikam.com\\DC01'."}
+
+
+Event Time : 2024-04-13 16:26:16
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4720, "User": "FABRIKAM", "Category": "Information", "Description": "Standard event generated for user 'FABRIKAM\\swhite' on computer 'contoso.com\\DC01'."}
+
+
+Event Time : 2024-04-13 16:35:11
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4858, "User": "CONTOSO", "Category": "Error", "Description": "Standard event generated for user 'CONTOSO\\mjohnson' on computer 'fabrikam.com\\SERVER01'."}
+
+
+Event Time : 2024-04-13 16:35:36
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4695, "User": "CONTOSO", "Category": "Error", "Description": "Standard event generated for user 'CONTOSO\\jdoe' on computer 'fabrikam.com\\CLIENT01'."}
+
+
+Event Time : 2024-04-13 16:40:48
+
+
+Event Time : 2024-04-13 16:43:12
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4837, "User": "CONTOSO", "Category": "Success Audit", "Description": "Standard event generated for user 'CONTOSO\\bjones' on computer 'fabrikam.com\\SERVER01'."}
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4886, "User": "CONTOSO", "Category": "Warning", "Description": "Standard event generated for user 'CONTOSO\\guest' on computer 'contoso.com\\SERVER01'."}
+
+
+Event Time : 2024-04-13 16:47:17
+
+
+Event Time : 2024-04-13 16:50:17
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4706, "User": "CONTOSO", "Category": "Information", "Description": "User attribute changes detected for account 'CONTOSO\\user1'."}
+
+
+Event Time : 2024-04-13 16:52:15
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4637, "User": "CONTOSO", "Category": "Success Audit", "Description": "Standard event generated for user 'CONTOSO\\guest' on computer 'contoso.com\\CLIENT01'."}
+
+
+Event Time : 2024-04-13 16:53:24
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4653, "User": "FABRIKAM", "Category": "Error", "Description": "Standard event generated for user 'FABRIKAM\\user1' on computer 'contoso.com\\CLIENT01'."}
+
+
+Event Time : 2024-04-13 16:54:42
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4883, "User": "FABRIKAM", "Category": "Information", "Description": "Standard event generated for user 'FABRIKAM\\swhite' on computer 'contoso.com\\DC01'."}
+
+
+Event Time : 2024-04-13 16:55:07
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4816, "User": "CONTOSO", "Category": "Failure Audit", "Description": "Standard event generated for user 'CONTOSO\\bjones' on computer 'fabrikam.com\\SERVER01'."}
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4664, "User": "CONTOSO", "Category": "Success Audit", "Description": "Standard event generated for user 'CONTOSO\\guest' on computer 'contoso.com\\CLIENT01'."}
+
+
+Event Time : 2024-04-13 17:10:32
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4646, "User": "CONTOSO", "Category": "Failure Audit", "Description": "Standard event generated for user 'CONTOSO\\swhite' on computer 'contoso.com\\CLIENT01'."}
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4731, "User": "CONTOSO", "Category": "Error", "Description": "User attribute changes detected for account 'CONTOSO\\admin'."}
+
+
+Event Time : 2024-04-13 17:12:55
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4796, "User": "CONTOSO", "Category": "Information", "Description": "Standard event generated for user 'CONTOSO\\guest' on computer 'contoso.com\\SERVER01'."}
+
+
+Event Time : 2024-04-13 17:13:12
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4731, "User": "FABRIKAM", "Category": "Success Audit", "Description": "Standard event generated for user 'FABRIKAM\\user1' on computer 'contoso.com\\DC01'."}
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4685, "User": "CONTOSO", "Category": "Success Audit", "Description": "Standard event generated for user 'CONTOSO\\admin' on computer 'contoso.com\\SERVER01'."}
+
+
+Event Time : 2024-04-13 17:14:24
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4773, "User": "FABRIKAM", "Category": "Success Audit", "Description": "Group Policy Object (GPO) changes detected: Sample GPO changes."}
+
+
+Event Time : 2024-04-13 17:14:32
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4669, "User": "FABRIKAM", "Category": "Failure Audit", "Description": "Standard event generated for user 'FABRIKAM\\user1' on computer 'fabrikam.com\\SERVER01'."}
+
+
+Event Time : 2024-04-13 17:18:05
+
+
+Event Time : 2024-04-13 17:18:45
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4664, "User": "FABRIKAM", "Category": "Information", "Description": "User account 'FABRIKAM\\mjohnson' logged on to computer 'contoso.com\\CLIENT01'."}
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4798, "User": "CONTOSO", "Category": "Warning", "Description": "Standard event generated for user 'CONTOSO\\user1' on computer 'fabrikam.com\\DC01'."}
+
+
+Event Time : 2024-04-13 17:19:54
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4770, "User": "CONTOSO", "Category": "Information", "Description": "Standard event generated for user 'CONTOSO\\user2' on computer 'fabrikam.com\\SERVER01'."}
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4634, "User": "FABRIKAM", "Category": "Information", "Description": "Group management event detected for group 'SampleGroup'."}
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4770, "User": "CONTOSO", "Category": "Error", "Description": "Standard event generated for user 'CONTOSO\\bjones' on computer 'fabrikam.com\\DC01'."}
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4641, "User": "FABRIKAM", "Category": "Warning", "Description": "Standard event generated for user 'FABRIKAM\\guest' on computer 'contoso.com\\CLIENT01'."}
+
+
+Event Time : 2024-04-13 17:20:07
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4764, "User": "CONTOSO", "Category": "Warning", "Description": "User attribute changes detected for account 'CONTOSO\\asmith'."}
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4627, "User": "FABRIKAM", "Category": "Information", "Description": "Standard event generated for user 'FABRIKAM\\jdoe' on computer 'fabrikam.com\\CLIENT01'."}
+
+
+Event Time : 2024-04-13 17:23:23
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4662, "User": "CONTOSO", "Category": "Information", "Description": "Standard event generated for user 'CONTOSO\\bjones' on computer 'contoso.com\\DC01'."}
+
+
+Event Time : 2024-04-13 17:23:31
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4881, "User": "CONTOSO", "Category": "Warning", "Description": "User attribute changes detected for account 'CONTOSO\\admin'."}
+
+
+Event Time : 2024-04-13 17:23:39
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4780, "User": "CONTOSO", "Category": "Failure Audit", "Description": "Standard event generated for user 'CONTOSO\\asmith' on computer 'contoso.com\\SERVER01'."}
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4770, "User": "CONTOSO", "Category": "Success Audit", "Description": "User attribute changes detected for account 'CONTOSO\\swhite'."}
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4650, "User": "CONTOSO", "Category": "Failure Audit", "Description": "Standard event generated for user 'CONTOSO\\bjones' on computer 'contoso.com\\CLIENT01'."}
+
+
+Event Time : 2024-04-13 17:35:20
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4650, "User": "CONTOSO", "Category": "Success Audit", "Description": "Standard event generated for user 'CONTOSO\\user2' on computer 'fabrikam.com\\DC01'."}
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4866, "User": "CONTOSO", "Category": "Warning", "Description": "Standard event generated for user 'CONTOSO\\user1' on computer 'fabrikam.com\\CLIENT01'."}
+
+
+Event Time : 2024-04-13 17:36:47
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4807, "User": "CONTOSO", "Category": "Error", "Description": "Standard event generated for user 'CONTOSO\\asmith' on computer 'contoso.com\\SERVER01'."}
+
+
+Event Time : 2024-04-13 17:39:47
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4733, "User": "CONTOSO", "Category": "Warning", "Description": "Standard event generated for user 'CONTOSO\\asmith' on computer 'fabrikam.com\\SERVER01'."}
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4672, "User": "FABRIKAM", "Category": "Error", "Description": "Standard event generated for user 'FABRIKAM\\jdoe' on computer 'contoso.com\\SERVER01'."}
+
+
+Event Time : 2024-04-13 17:40:01
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4817, "User": "CONTOSO", "Category": "Failure Audit", "Description": "Standard event generated for user 'CONTOSO\\user1' on computer 'contoso.com\\SERVER01'."}
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4684, "User": "CONTOSO", "Category": "Warning", "Description": "Standard event generated for user 'CONTOSO\\user1' on computer 'fabrikam.com\\SERVER01'."}
+
+
+Event Time : 2024-04-13 17:41:04
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4789, "User": "CONTOSO", "Category": "Warning", "Description": "Standard event generated for user 'CONTOSO\\admin' on computer 'contoso.com\\SERVER01'."}
+
+
+Event Time : 2024-04-13 17:41:25
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4820, "User": "FABRIKAM", "Category": "Warning", "Description": "Standard event generated for user 'FABRIKAM\\jsmith' on computer 'contoso.com\\SERVER01'."}
+
+
+Event Time : 2024-04-13 17:45:14
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4722, "User": "CONTOSO", "Category": "Error", "Description": "Group Policy Object (GPO) changes detected: Sample GPO changes."}
+
+
+Event Time : 2024-04-13 17:45:41
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4856, "User": "FABRIKAM", "Category": "Warning", "Description": "Standard event generated for user 'FABRIKAM\\user2' on computer 'fabrikam.com\\DC01'."}
+
+
+Event Time : 2024-04-13 17:55:23
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4845, "User": "FABRIKAM", "Category": "Failure Audit", "Description": "Standard event generated for user 'FABRIKAM\\admin' on computer 'fabrikam.com\\SERVER01'."}
+
+
+Event Time : 2024-04-13 18:20:21
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4818, "User": "CONTOSO", "Category": "Error", "Description": "Standard event generated for user 'CONTOSO\\guest' on computer 'fabrikam.com\\SERVER01'."}
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4642, "User": "FABRIKAM", "Category": "Failure Audit", "Description": "Standard event generated for user 'FABRIKAM\\user1' on computer 'contoso.com\\SERVER01'."}
+
+
+Event Time : 2024-04-13 19:02:54
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4810, "User": "FABRIKAM", "Category": "Success Audit", "Description": "User account 'FABRIKAM\\jsmith' logged on to computer 'fabrikam.com\\SERVER01'."}
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4630, "User": "FABRIKAM", "Category": "Failure Audit", "Description": "Standard event generated for user 'FABRIKAM\\jsmith' on computer 'fabrikam.com\\SERVER01'."}
+
+
+Event Time : 2024-04-13 19:03:00
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4899, "User": "FABRIKAM", "Category": "Failure Audit", "Description": "Standard event generated for user 'FABRIKAM\\user2' on computer 'fabrikam.com\\SERVER01'."}
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4747, "User": "CONTOSO", "Category": "Error", "Description": "Standard event generated for user 'CONTOSO\\jdoe' on computer 'fabrikam.com\\SERVER01'."}
+
+
+Event Time : 2024-04-13 19:03:01
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4789, "User": "CONTOSO", "Category": "Failure Audit", "Description": "Standard event generated for user 'CONTOSO\\mjohnson' on computer 'contoso.com\\SERVER01'."}
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4849, "User": "FABRIKAM", "Category": "Error", "Description": "Standard event generated for user 'FABRIKAM\\user1' on computer 'fabrikam.com\\SERVER01'."}
+
+

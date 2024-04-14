@@ -1,0 +1,22 @@
+Event Time : 2024-04-13 17:35:20
+{"@timestamp": "2024-04-13T12:05:20.210613", "User": "admin", "Server": "server2", "Client IP": "172.16.0.50", "Event Category": "Privilege Escalation", "Event Type": "Ownership Changed", "Message": "Ownership of view 'dbo.Products' on server 'server2' changed from 'admin' to 'admin'"}
+{"@timestamp": "2024-04-13T12:05:20.210613", "User": "user1", "Server": "server2", "Client IP": "172.16.0.50", "Event Category": "Data Modification", "Event Type": "Insert", "Message": "User 'user1' on server 'server2' executed Insert statement: INSERT INTO dbo.Customers (Name, Email) VALUES ('New Customer', 'newcustomer@example.com')"}
+
+
+Event Time : 2024-04-13 17:38:26
+{"@timestamp": "2024-04-13T12:08:26.462463", "User": "user1", "Server": "server1", "Client IP": "10.0.0.1", "Event Category": "Data Modification", "Event Type": "Schema Changed", "Message": "User 'user1' on server 'server1' executed Update statement: UPDATE dbo.Products SET Price = Price * 1.1 WHERE Category = 'Electronics'"}
+
+
+Event Time : 2024-04-13 17:40:01
+{"@timestamp": "2024-04-13T12:10:01.685149", "User": "admin", "Server": "server3", "Client IP": "172.16.0.50", "Event Category": "Administrative", "Event Type": "Server Config Changed", "Message": "Server configuration changed on 'server3' by user 'admin'"}
+{"@timestamp": "2024-04-13T12:10:01.685149", "User": "admin", "Server": "server3", "Client IP": "172.16.0.50", "Event Category": "Privilege Escalation", "Event Type": "Revoke Permission", "Message": "Ownership of table 'dbo.Orders' on server 'server3' changed from 'admin' to 'user1'"}
+
+
+Event Time : 2024-04-13 17:45:41
+{"@timestamp": "2024-04-13T12:15:41.375720", "User": "user2", "Server": "server1", "Client IP": "10.0.0.1", "Event Category": "Access Control", "Event Type": "Login Failure", "Message": "Login Failure for user 'user2' from IP '10.0.0.1' on server 'server1'"}
+
+
+Event Time : 2024-04-13 17:49:44
+{"@timestamp": "2024-04-13T12:19:44.425742", "User": "guest", "Server": "server3", "Client IP": "10.0.0.1", "Event Category": "Privilege Escalation", "Event Type": "Grant Permission", "Message": "Ownership of table 'dbo.Products' on server 'server3' changed from 'guest' to 'guest'"}
+
+

@@ -1,0 +1,110 @@
+{"EventID": 749, "Provider": "example_provider", "Version": "1.0", "Level": 2, "Task": 4, "Opcode": 0, "Keywords": "0xD25B4a170E1EB22F", "TimeCreated": "2024-04-13T05:05:35Z", "EventRecordID": 34392, "ProcessID": 71, "ThreadID": 6275, "User": "jmlba", "ProcessName": "pgqyrduf.exe", "Direction": "Outbound", "InitiatingProcessID": 513, "SourceIP": "29.232.53.130", "SourcePort": 62540, "DestinationIP": "149.185.35.55", "DestinationPort": 23124, "UserAgent": "QpiebjeWdLFQY310OrGU"}
+{"EventID": 242, "Provider": "example_provider", "Version": "1.0", "Level": 4, "Task": 8, "Opcode": 2, "Keywords": "0x5b593FE6680dDB4B", "TimeCreated": "2024-04-13T05:05:35Z", "EventRecordID": 69506, "ProcessID": 615, "ThreadID": 8379, "User": "dbirj", "ProcessName": "tysyuoan.exe", "Direction": "Outbound", "InitiatingProcessID": 895, "SourceIP": "164.136.86.137", "SourcePort": 63502, "DestinationIP": "156.55.174.59", "DestinationPort": 54805, "UserAgent": "YGvm6E7ZXnIUcb6CVyJX"}
+{"EventID": 350, "Provider": "example_provider", "Version": "1.0", "Level": 4, "Task": 7, "Opcode": 2, "Keywords": "0xc8aBce242afb695A", "TimeCreated": "2024-04-13T05:05:35Z", "EventRecordID": 90419, "ProcessID": 733, "ThreadID": 2666, "User": "xahwt", "ProcessName": "ccvcyysl.exe", "Direction": "Inbound", "InitiatingProcessID": 472, "SourceIP": "144.213.164.73", "SourcePort": 46134, "DestinationIP": "185.145.74.3", "DestinationPort": 14695, "UserAgent": "mfRnZ3Fo1GqeBq5Cy6Lq"}
+
+
+{"EventID": 324, "Provider": "example_provider", "Version": "1.0", "Level": 1, "Task": 5, "Opcode": 0, "Keywords": "0xC0CBCA08cEc46edf", "TimeCreated": "2024-04-13T05:05:49Z", "EventRecordID": 88682, "ProcessID": 865, "ThreadID": 6498, "User": "bcflc", "ProcessName": "pugsivmc.exe", "Direction": "Inbound", "InitiatingProcessID": 185, "SourceIP": "64.71.194.93", "SourcePort": 49520, "DestinationIP": "42.165.135.115", "DestinationPort": 45159, "UserAgent": "p8EBsMmSyyDXyTTjYv2G"}
+{"EventID": 345, "Provider": "example_provider", "Version": "1.0", "Level": 3, "Task": 10, "Opcode": 5, "Keywords": "0x3dFA88d315e0D73d", "TimeCreated": "2024-04-13T05:05:49Z", "EventRecordID": 60984, "ProcessID": 574, "ThreadID": 8256, "User": "ljnkx", "ProcessName": "blzapfmv.exe", "Direction": "Outbound", "InitiatingProcessID": 487, "SourceIP": "219.141.53.54", "SourcePort": 56225, "DestinationIP": "48.111.200.140", "DestinationPort": 37883, "UserAgent": "TQqHJ2kZxnOnWD5jjDJr"}
+{"EventID": 138, "Provider": "example_provider", "Version": "1.0", "Level": 3, "Task": 9, "Opcode": 4, "Keywords": "0xa109290a05e3Fa38", "TimeCreated": "2024-04-13T05:05:49Z", "EventRecordID": 22809, "ProcessID": 186, "ThreadID": 6698, "User": "lychl", "ProcessName": "uarlhbuq.exe", "Direction": "Outbound", "InitiatingProcessID": 500, "SourceIP": "233.208.158.181", "SourcePort": 34090, "DestinationIP": "104.153.172.76", "DestinationPort": 45421, "UserAgent": "ZjdsYIPwzOeNWauoGJhf"}
+
+
+Event Time : 2024-04-13 10:42:48
+{"EventID": 893, "Provider": "example_provider", "Version": "1.0", "Level": 4, "Task": 5, "Opcode": 0, "Keywords": "0xf5AC44B9DEA4bCBa", "TimeCreated": "2024-04-13T05:12:48Z", "EventRecordID": 27897, "ProcessID": 397, "ThreadID": 5487, "User": "mzgfn", "ProcessName": "rdaccwel.exe", "Direction": "Outbound", "InitiatingProcessID": 884, "SourceIP": "20.144.82.93", "SourcePort": 11659, "DestinationIP": "189.121.179.235", "DestinationPort": 44684, "UserAgent": "qXz9flbl6Ca3EruOFfvn"}
+{"EventID": 20, "Provider": "example_provider", "Version": "1.0", "Level": 2, "Task": 2, "Opcode": 0, "Keywords": "0x7a6E6bBA0a4E15F1", "TimeCreated": "2024-04-13T05:12:48Z", "EventRecordID": 54028, "ProcessID": 925, "ThreadID": 1493, "User": "qmioz", "ProcessName": "kbzsxpgr.exe", "Direction": "Outbound", "InitiatingProcessID": 825, "SourceIP": "197.101.107.27", "SourcePort": 18089, "DestinationIP": "183.208.9.140", "DestinationPort": 56848, "UserAgent": "PARYdrZqDUgLWzDAJwsa"}
+{"EventID": 414, "Provider": "example_provider", "Version": "1.0", "Level": 3, "Task": 9, "Opcode": 1, "Keywords": "0x9BDd6747BC37Bb60", "TimeCreated": "2024-04-13T05:12:48Z", "EventRecordID": 18914, "ProcessID": 675, "ThreadID": 1613, "User": "tskkx", "ProcessName": "zidgphxv.exe", "Direction": "Inbound", "InitiatingProcessID": 702, "SourceIP": "88.235.230.21", "SourcePort": 32489, "DestinationIP": "201.134.0.64", "DestinationPort": 24887, "UserAgent": "o11Kwac3VGn9cwvPV1rh"}
+
+
+Event Time : 2024-04-13 16:35:36
+{"EventID": 568, "Provider": "example_provider", "Version": "1.0", "Level": 4, "Task": 5, "Opcode": 1, "Keywords": "0xcB7Ecffde7927e72", "TimeCreated": "2024-04-13T11:05:36Z", "EventRecordID": 37222, "ProcessID": 792, "ThreadID": 455, "User": "ixcmn", "ProcessName": "fioiwjac.exe", "Direction": "Outbound", "InitiatingProcessID": 485, "SourceIP": "137.88.19.24", "SourcePort": 34524, "DestinationIP": "168.27.18.250", "DestinationPort": 47446, "UserAgent": "Y87RBG8PdwSkCGo00AL9"}
+
+
+Event Time : 2024-04-13 16:42:47
+{"EventID": 510, "Provider": "example_provider", "Version": "1.0", "Level": 1, "Task": 3, "Opcode": 2, "Keywords": "0x8Fe2f711518BAefD", "TimeCreated": "2024-04-13T11:12:47Z", "EventRecordID": 84758, "ProcessID": 646, "ThreadID": 6312, "User": "yjkxn", "ProcessName": "xqjoupaq.exe", "Direction": "Inbound", "InitiatingProcessID": 122, "SourceIP": "204.107.118.205", "SourcePort": 5670, "DestinationIP": "184.109.249.37", "DestinationPort": 4059, "UserAgent": "IEKMJum8nzP1wYcyYVXd"}
+{"EventID": 932, "Provider": "example_provider", "Version": "1.0", "Level": 4, "Task": 9, "Opcode": 5, "Keywords": "0xbAE4F1C7c14479cb", "TimeCreated": "2024-04-13T11:12:47Z", "EventRecordID": 16854, "ProcessID": 922, "ThreadID": 8784, "User": "xhjxb", "ProcessName": "dzdbpkgo.exe", "Direction": "Outbound", "InitiatingProcessID": 853, "SourceIP": "97.3.188.36", "SourcePort": 13864, "DestinationIP": "129.43.192.93", "DestinationPort": 40564, "UserAgent": "0wgGPkaejQfb2Rcuky8U"}
+
+
+Event Time : 2024-04-13 16:43:12
+{"EventID": 309, "Provider": "example_provider", "Version": "1.0", "Level": 1, "Task": 2, "Opcode": 0, "Keywords": "0xbF2b5c6A1Fbcf4bB", "TimeCreated": "2024-04-13T11:13:12Z", "EventRecordID": 14867, "ProcessID": 206, "ThreadID": 3652, "User": "bvpbi", "ProcessName": "qsfpvioy.exe", "Direction": "Outbound", "InitiatingProcessID": 449, "SourceIP": "244.131.88.164", "SourcePort": 47097, "DestinationIP": "203.93.222.170", "DestinationPort": 62831, "UserAgent": "fiQC2LUQvnMefK4KrVMt"}
+{"EventID": 258, "Provider": "example_provider", "Version": "1.0", "Level": 2, "Task": 8, "Opcode": 0, "Keywords": "0xCAABEA4C2Fdc0226", "TimeCreated": "2024-04-13T11:13:12Z", "EventRecordID": 38042, "ProcessID": 900, "ThreadID": 3477, "User": "bfgyh", "ProcessName": "gobypitz.exe", "Direction": "Outbound", "InitiatingProcessID": 707, "SourceIP": "53.232.4.247", "SourcePort": 1548, "DestinationIP": "175.24.244.13", "DestinationPort": 47679, "UserAgent": "oNiHe4urowKMl8Bw6MPq"}
+
+
+Event Time : 2024-04-13 16:52:15
+{"EventID": 808, "Provider": "example_provider", "Version": "1.0", "Level": 2, "Task": 4, "Opcode": 0, "Keywords": "0xDfDDB2a9fFbFd737", "TimeCreated": "2024-04-13T11:22:15Z", "EventRecordID": 63074, "ProcessID": 566, "ThreadID": 4105, "User": "jaaaq", "ProcessName": "ipedqtfl.exe", "Direction": "Inbound", "InitiatingProcessID": 777, "SourceIP": "41.152.79.4", "SourcePort": 56602, "DestinationIP": "250.169.196.10", "DestinationPort": 1474, "UserAgent": "ihfV5iC1imv7ljQlCVb6"}
+
+
+Event Time : 2024-04-13 16:53:24
+{"EventID": 184, "Provider": "example_provider", "Version": "1.0", "Level": 2, "Task": 5, "Opcode": 0, "Keywords": "0xDFC3D6e659A39dBa", "TimeCreated": "2024-04-13T11:23:24Z", "EventRecordID": 12728, "ProcessID": 595, "ThreadID": 5799, "User": "qxrbe", "ProcessName": "osxfijyp.exe", "Direction": "Inbound", "InitiatingProcessID": 273, "SourceIP": "14.19.183.14", "SourcePort": 52576, "DestinationIP": "111.179.200.188", "DestinationPort": 15293, "UserAgent": "0An1NXa5B2oe7IxhQh4h"}
+
+
+Event Time : 2024-04-13 17:23:31
+{"EventID": 367, "Provider": "example_provider", "Version": "1.0", "Level": 4, "Task": 1, "Opcode": 0, "Keywords": "0xE44e9f7daDDce6Ad", "TimeCreated": "2024-04-13T11:53:31Z", "EventRecordID": 20249, "ProcessID": 604, "ThreadID": 5692, "User": "idwma", "ProcessName": "gfokgdxj.exe", "Direction": "Outbound", "InitiatingProcessID": 296, "SourceIP": "168.78.152.164", "SourcePort": 9790, "DestinationIP": "120.19.77.227", "DestinationPort": 5635, "UserAgent": "DBujFGrBabvdZC0a5YyE"}
+
+
+Event Time : 2024-04-13 17:23:39
+{"EventID": 437, "Provider": "example_provider", "Version": "1.0", "Level": 4, "Task": 10, "Opcode": 5, "Keywords": "0x7Cb8Fc03d7CB6AeC", "TimeCreated": "2024-04-13T11:53:39Z", "EventRecordID": 8104, "ProcessID": 563, "ThreadID": 7462, "User": "lmztz", "ProcessName": "tkkvsqib.exe", "Direction": "Outbound", "InitiatingProcessID": 822, "SourceIP": "78.140.34.253", "SourcePort": 8997, "DestinationIP": "234.229.135.217", "DestinationPort": 52931, "UserAgent": "SdK90Jm4i3ZMTBy94l4e"}
+{"EventID": 439, "Provider": "example_provider", "Version": "1.0", "Level": 3, "Task": 3, "Opcode": 2, "Keywords": "0xacf6785bdE68d073", "TimeCreated": "2024-04-13T11:53:39Z", "EventRecordID": 82259, "ProcessID": 318, "ThreadID": 4043, "User": "ssfun", "ProcessName": "vmaquzgd.exe", "Direction": "Outbound", "InitiatingProcessID": 477, "SourceIP": "6.145.174.80", "SourcePort": 59190, "DestinationIP": "232.116.74.95", "DestinationPort": 27659, "UserAgent": "wM33WavEBpJWts100PUI"}
+{"EventID": 155, "Provider": "example_provider", "Version": "1.0", "Level": 1, "Task": 8, "Opcode": 3, "Keywords": "0x60BC8b797d6Ebd79", "TimeCreated": "2024-04-13T11:53:39Z", "EventRecordID": 67643, "ProcessID": 51, "ThreadID": 3168, "User": "ailfh", "ProcessName": "jfosouve.exe", "Direction": "Inbound", "InitiatingProcessID": 44, "SourceIP": "79.34.41.206", "SourcePort": 61895, "DestinationIP": "12.78.68.131", "DestinationPort": 42408, "UserAgent": "UuuDpDInu1SMHScDFImp"}
+
+
+Event Time : 2024-04-13 17:35:20
+{"EventID": 860, "Provider": "example_provider", "Version": "1.0", "Level": 2, "Task": 8, "Opcode": 2, "Keywords": "0xC8B8affb0bccCFd2", "TimeCreated": "2024-04-13T12:05:20Z", "EventRecordID": 3834, "ProcessID": 237, "ThreadID": 3989, "User": "vbdvt", "ProcessName": "xtprrkpq.exe", "Direction": "Outbound", "InitiatingProcessID": 139, "SourceIP": "0.24.41.1", "SourcePort": 24998, "DestinationIP": "148.212.252.234", "DestinationPort": 40870, "UserAgent": "3LlUFuHAnkcFWDp2NlAb"}
+{"EventID": 157, "Provider": "example_provider", "Version": "1.0", "Level": 3, "Task": 4, "Opcode": 4, "Keywords": "0x13EF4f2AEAaccb7a", "TimeCreated": "2024-04-13T12:05:20Z", "EventRecordID": 30442, "ProcessID": 25, "ThreadID": 6387, "User": "voltn", "ProcessName": "ahcrgrbk.exe", "Direction": "Outbound", "InitiatingProcessID": 816, "SourceIP": "204.7.126.198", "SourcePort": 2639, "DestinationIP": "140.191.178.46", "DestinationPort": 49359, "UserAgent": "iwdFo9Oirk8gVTQOj0DR"}
+
+
+Event Time : 2024-04-13 17:37:44
+{"EventID": 585, "Provider": "example_provider", "Version": "1.0", "Level": 4, "Task": 1, "Opcode": 1, "Keywords": "0xC2b534D2daDAe6d9", "TimeCreated": "2024-04-13T12:07:44Z", "EventRecordID": 88532, "ProcessID": 207, "ThreadID": 6669, "User": "ajegz", "ProcessName": "pviuvcvo.exe", "Direction": "Inbound", "InitiatingProcessID": 736, "SourceIP": "137.12.71.42", "SourcePort": 18437, "DestinationIP": "151.211.5.157", "DestinationPort": 29767, "UserAgent": "ZVMy87ghRGRD2ckJSa7Z"}
+
+
+Event Time : 2024-04-13 17:37:51
+{"EventID": 1, "Provider": "example_provider", "Version": "1.0", "Level": 2, "Task": 1, "Opcode": 1, "Keywords": "0x2B3F0dcDfAA9f2CF", "TimeCreated": "2024-04-13T12:07:51Z", "EventRecordID": 51838, "ProcessID": 460, "ThreadID": 8820, "User": "bmfrb", "ProcessName": "aehkpkll.exe", "Direction": "Inbound", "InitiatingProcessID": 232, "SourceIP": "4.193.170.45", "SourcePort": 44229, "DestinationIP": "219.135.142.189", "DestinationPort": 55796, "UserAgent": "CobKD7g1NQ5CjonET3ZF"}
+{"EventID": 86, "Provider": "example_provider", "Version": "1.0", "Level": 3, "Task": 1, "Opcode": 5, "Keywords": "0xAC7dA3b8fC181baf", "TimeCreated": "2024-04-13T12:07:51Z", "EventRecordID": 44090, "ProcessID": 835, "ThreadID": 1102, "User": "zezkp", "ProcessName": "qaxynzkg.exe", "Direction": "Outbound", "InitiatingProcessID": 310, "SourceIP": "216.196.138.203", "SourcePort": 48102, "DestinationIP": "48.253.31.106", "DestinationPort": 2724, "UserAgent": "s05HjAqBwnD3wvqLj4A2"}
+{"EventID": 818, "Provider": "example_provider", "Version": "1.0", "Level": 4, "Task": 9, "Opcode": 0, "Keywords": "0x340eBEbBcd14edA7", "TimeCreated": "2024-04-13T12:07:51Z", "EventRecordID": 28789, "ProcessID": 266, "ThreadID": 7005, "User": "tbpfl", "ProcessName": "atvjbrwi.exe", "Direction": "Inbound", "InitiatingProcessID": 620, "SourceIP": "112.69.241.17", "SourcePort": 21711, "DestinationIP": "226.175.224.119", "DestinationPort": 11446, "UserAgent": "5URbcj1NcKBKQ46jnhZS"}
+{"EventID": 695, "Provider": "example_provider", "Version": "1.0", "Level": 4, "Task": 1, "Opcode": 0, "Keywords": "0x683bEe2BaF26a9A2", "TimeCreated": "2024-04-13T12:07:51Z", "EventRecordID": 63882, "ProcessID": 33, "ThreadID": 6297, "User": "yendw", "ProcessName": "eljadqgv.exe", "Direction": "Outbound", "InitiatingProcessID": 382, "SourceIP": "52.196.134.194", "SourcePort": 2134, "DestinationIP": "201.89.149.128", "DestinationPort": 63383, "UserAgent": "I4BG2HRX27vm3UTiuxSi"}
+{"EventID": 109, "Provider": "example_provider", "Version": "1.0", "Level": 1, "Task": 10, "Opcode": 3, "Keywords": "0x2c34762B8cAF72cA", "TimeCreated": "2024-04-13T12:07:51Z", "EventRecordID": 7538, "ProcessID": 815, "ThreadID": 3675, "User": "njofh", "ProcessName": "tfxpoucu.exe", "Direction": "Outbound", "InitiatingProcessID": 706, "SourceIP": "56.22.158.2", "SourcePort": 14786, "DestinationIP": "62.94.128.14", "DestinationPort": 23658, "UserAgent": "am7SOfRzpr4SYM53aGZW"}
+{"EventID": 396, "Provider": "example_provider", "Version": "1.0", "Level": 4, "Task": 2, "Opcode": 1, "Keywords": "0xF69E00D7688fF6B0", "TimeCreated": "2024-04-13T12:07:51Z", "EventRecordID": 19039, "ProcessID": 399, "ThreadID": 3177, "User": "folrf", "ProcessName": "ytzmvfmx.exe", "Direction": "Inbound", "InitiatingProcessID": 755, "SourceIP": "120.217.155.184", "SourcePort": 47330, "DestinationIP": "217.106.170.10", "DestinationPort": 3631, "UserAgent": "vmmMyJtnnsAefrRDVHX9"}
+{"EventID": 512, "Provider": "example_provider", "Version": "1.0", "Level": 1, "Task": 6, "Opcode": 5, "Keywords": "0xAB1b11924643d7AC", "TimeCreated": "2024-04-13T12:07:51Z", "EventRecordID": 89916, "ProcessID": 114, "ThreadID": 1097, "User": "gesjp", "ProcessName": "aoexwbdd.exe", "Direction": "Outbound", "InitiatingProcessID": 397, "SourceIP": "95.132.60.42", "SourcePort": 14519, "DestinationIP": "18.219.122.253", "DestinationPort": 27592, "UserAgent": "AOQTl9LXVKIGZ29MXw5m"}
+{"EventID": 689, "Provider": "example_provider", "Version": "1.0", "Level": 3, "Task": 2, "Opcode": 5, "Keywords": "0x680BF0F05C6a27De", "TimeCreated": "2024-04-13T12:07:51Z", "EventRecordID": 56580, "ProcessID": 108, "ThreadID": 8383, "User": "cytqb", "ProcessName": "bkpdohrr.exe", "Direction": "Outbound", "InitiatingProcessID": 591, "SourceIP": "251.70.96.200", "SourcePort": 48852, "DestinationIP": "80.246.122.147", "DestinationPort": 16202, "UserAgent": "VTXyF455njfPJ4n8whgJ"}
+
+
+Event Time : 2024-04-13 17:40:01
+{"EventID": 135, "Provider": "example_provider", "Version": "1.0", "Level": 1, "Task": 7, "Opcode": 5, "Keywords": "0xDAba14065Cd1EbeB", "TimeCreated": "2024-04-13T12:10:01Z", "EventRecordID": 29414, "ProcessID": 627, "ThreadID": 1107, "User": "txtjs", "ProcessName": "uxskkbfo.exe", "Direction": "Inbound", "InitiatingProcessID": 834, "SourceIP": "21.88.24.146", "SourcePort": 41454, "DestinationIP": "102.13.168.57", "DestinationPort": 43474, "UserAgent": "at5ZJcNPQbOeLYsmteNK"}
+{"EventID": 209, "Provider": "example_provider", "Version": "1.0", "Level": 1, "Task": 8, "Opcode": 2, "Keywords": "0x8aAa5279A6daddD3", "TimeCreated": "2024-04-13T12:10:01Z", "EventRecordID": 30329, "ProcessID": 553, "ThreadID": 6800, "User": "rxrpb", "ProcessName": "fvwvncbc.exe", "Direction": "Outbound", "InitiatingProcessID": 564, "SourceIP": "21.246.198.183", "SourcePort": 63374, "DestinationIP": "81.125.18.211", "DestinationPort": 60152, "UserAgent": "ARHvumrq9oKBL4x7AJGo"}
+
+
+Event Time : 2024-04-13 17:40:29
+{"EventID": 207, "Provider": "example_provider", "Version": "1.0", "Level": 3, "Task": 8, "Opcode": 4, "Keywords": "0xCaAFaeBCA07Ece9B", "TimeCreated": "2024-04-13T12:10:29Z", "EventRecordID": 91548, "ProcessID": 608, "ThreadID": 8496, "User": "aepvu", "ProcessName": "pamcmjqw.exe", "Direction": "Outbound", "InitiatingProcessID": 153, "SourceIP": "147.34.18.16", "SourcePort": 29037, "DestinationIP": "43.218.51.30", "DestinationPort": 29729, "UserAgent": "RoUdnPHBbbI8jGrC8Ppy"}
+
+
+Event Time : 2024-04-13 17:41:12
+{"EventID": 185, "Provider": "example_provider", "Version": "1.0", "Level": 3, "Task": 4, "Opcode": 1, "Keywords": "0x1E4408f13f2BBC20", "TimeCreated": "2024-04-13T12:11:12Z", "EventRecordID": 39480, "ProcessID": 352, "ThreadID": 1282, "User": "uxzwh", "ProcessName": "zpmocnai.exe", "Direction": "Inbound", "InitiatingProcessID": 488, "SourceIP": "188.138.106.118", "SourcePort": 52538, "DestinationIP": "181.209.23.180", "DestinationPort": 38582, "UserAgent": "eJAqmyjVqJ95fnzpiHEo"}
+
+
+Event Time : 2024-04-13 17:45:19
+{"EventID": 604, "Provider": "example_provider", "Version": "1.0", "Level": 4, "Task": 10, "Opcode": 5, "Keywords": "0x72BDdD4CC82BFCca", "TimeCreated": "2024-04-13T12:15:19Z", "EventRecordID": 35917, "ProcessID": 483, "ThreadID": 1864, "User": "rliur", "ProcessName": "hrpwnjvq.exe", "Direction": "Inbound", "InitiatingProcessID": 482, "SourceIP": "40.37.215.203", "SourcePort": 29636, "DestinationIP": "9.200.41.116", "DestinationPort": 38237, "UserAgent": "j0nhQjAmHTR6edOyPHUr"}
+
+
+Event Time : 2024-04-13 17:45:41
+{"EventID": 469, "Provider": "example_provider", "Version": "1.0", "Level": 3, "Task": 5, "Opcode": 2, "Keywords": "0xB52E36Aa2ad6CbA0", "TimeCreated": "2024-04-13T12:15:41Z", "EventRecordID": 38275, "ProcessID": 82, "ThreadID": 4352, "User": "idump", "ProcessName": "nceafxql.exe", "Direction": "Inbound", "InitiatingProcessID": 175, "SourceIP": "254.246.120.117", "SourcePort": 54540, "DestinationIP": "160.76.70.141", "DestinationPort": 43921, "UserAgent": "GczZVahF2ua9Z0fQwL1A"}
+
+
+Event Time : 2024-04-13 19:12:54
+{"EventID": 443, "Provider": "example_provider", "Version": "1.0", "Level": 4, "Task": 6, "Opcode": 0, "Keywords": "0x7fbaCec97FCa1C00", "TimeCreated": "2024-04-13T13:42:54Z", "EventRecordID": 34935, "ProcessID": 92, "ThreadID": 370, "User": "xlriz", "ProcessName": "swtsfmsp.exe", "Direction": "Outbound", "InitiatingProcessID": 363, "SourceIP": "170.93.120.158", "SourcePort": 14126, "DestinationIP": "162.81.62.201", "DestinationPort": 34108, "UserAgent": "xT5my8G2euqWmjlCj0bK"}
+
+
+Event Time : 2024-04-13 19:13:06
+{"EventID": 410, "Provider": "example_provider", "Version": "1.0", "Level": 2, "Task": 7, "Opcode": 2, "Keywords": "0xdF9d0ACC424e7C8b", "TimeCreated": "2024-04-13T13:43:06Z", "EventRecordID": 51920, "ProcessID": 350, "ThreadID": 956, "User": "kukgb", "ProcessName": "tsbmildi.exe", "Direction": "Outbound", "InitiatingProcessID": 922, "SourceIP": "69.217.162.40", "SourcePort": 21096, "DestinationIP": "151.10.0.128", "DestinationPort": 62698, "UserAgent": "rFiQ1hGfeSsKng6BkRrS"}
+
+
+Event Time : 2024-04-13 19:16:32
+{"EventID": 731, "Provider": "example_provider", "Version": "1.0", "Level": 4, "Task": 4, "Opcode": 5, "Keywords": "0x260DdA31ECC14178", "TimeCreated": "2024-04-13T13:46:32Z", "EventRecordID": 7290, "ProcessID": 839, "ThreadID": 6106, "User": "vcnfv", "ProcessName": "guyjnren.exe", "Direction": "Outbound", "InitiatingProcessID": 242, "SourceIP": "70.202.58.17", "SourcePort": 2603, "DestinationIP": "108.238.253.250", "DestinationPort": 19940, "UserAgent": "HiezDAYQM3eUr0I4mu57"}
+
+
+Event Time : 2024-04-13 19:17:14
+{"EventID": 745, "Provider": "example_provider", "Version": "1.0", "Level": 4, "Task": 8, "Opcode": 0, "Keywords": "0x0C46Cbd677EFD61c", "TimeCreated": "2024-04-13T13:47:14Z", "EventRecordID": 13008, "ProcessID": 569, "ThreadID": 3877, "User": "muout", "ProcessName": "etpzqycs.exe", "Direction": "Outbound", "InitiatingProcessID": 35, "SourceIP": "112.51.130.192", "SourcePort": 41549, "DestinationIP": "149.32.161.113", "DestinationPort": 32377, "UserAgent": "xgqylchsKQmEOQMoRE1L"}
+
+
+Event Time : 2024-04-13 20:12:40
+{"EventID": 962, "Provider": "example_provider", "Version": "1.0", "Level": 2, "Task": 2, "Opcode": 1, "Keywords": "0x7Ec112865fe454e3", "TimeCreated": "2024-04-13T14:42:40Z", "EventRecordID": 63901, "ProcessID": 832, "ThreadID": 4699, "User": "agqgi", "ProcessName": "fzoizvib.exe", "Direction": "Inbound", "InitiatingProcessID": 766, "SourceIP": "66.138.89.104", "SourcePort": 59752, "DestinationIP": "37.166.123.120", "DestinationPort": 56902, "UserAgent": "cclSpwGIGutc3cMxtSy2"}
+{"EventID": 819, "Provider": "example_provider", "Version": "1.0", "Level": 3, "Task": 3, "Opcode": 2, "Keywords": "0x5Aa770AE7cECfF0E", "TimeCreated": "2024-04-13T14:42:40Z", "EventRecordID": 47799, "ProcessID": 193, "ThreadID": 4151, "User": "mweej", "ProcessName": "ptiuwxmd.exe", "Direction": "Outbound", "InitiatingProcessID": 93, "SourceIP": "62.82.124.217", "SourcePort": 2704, "DestinationIP": "195.222.253.115", "DestinationPort": 23159, "UserAgent": "soQajTGIIcWvdmq9qLuc"}
+
+

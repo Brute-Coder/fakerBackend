@@ -1,0 +1,18 @@
+Event Time : 2024-04-13 17:13:12
+{"Source": "CustomCategory", "Event ID": 585, "Level": "Error", "Description": "Software update available. Please install the latest updates."}
+{"Source": "Security", "Event ID": 486, "Level": "Information", "Description": "Backup operation completed successfully."}
+
+
+Event Time : 2024-04-13 17:14:32
+{"Source": "CustomCategory", "Event ID": 241, "Level": "Information", "Description": "File not found: C:\\Windows\\System32\\file.txt"}
+
+
+Event Time : 2024-04-13 17:35:20
+{"Source": "Application", "Event ID": 657, "Level": "Warning", "Description": "Network connectivity lost. Reconnecting..."}
+{"Source": "Security", "Event ID": 725, "Level": "Error", "Description": "File not found: C:\\Windows\\System32\\file.txt"}
+
+
+Event Time : 2024-04-13 17:38:44
+{"Source": "CustomCategory", "Event ID": 212, "Level": "Audit Failure", "Description": "Printer error: Paper jam detected."}
+
+

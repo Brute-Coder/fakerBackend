@@ -1,0 +1,18 @@
+Event Time : 2024-04-13 18:06:48
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4749, "User": "FABRIKAM", "Category": "Error", "Description": "Standard event generated for user 'FABRIKAM\\swhite' on computer 'contoso.com\\DC01'."}
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4830, "User": "FABRIKAM", "Category": "Failure Audit", "Description": "Standard event generated for user 'FABRIKAM\\swhite' on computer 'fabrikam.com\\DC01'."}
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4783, "User": "CONTOSO", "Category": "Failure Audit", "Description": "Standard event generated for user 'CONTOSO\\user2' on computer 'fabrikam.com\\CLIENT01'."}
+
+
+Event Time : 2024-04-13 18:06:48
+{"EventID": 978, "Provider": "example_provider", "Version": "1.0", "Level": 4, "Task": 4, "Opcode": 3, "Keywords": "0x58dd886cf5049dc4", "TimeCreated": "2024-04-13T12:36:48Z", "EventRecordID": 37420, "ProcessID": 509, "ThreadID": 1244, "User": "rurou", "ProcessName": "adsxbwiw.exe", "Direction": "Inbound", "InitiatingProcessID": 931, "SourceIP": "96.135.165.29", "SourcePort": 30301, "DestinationIP": "162.27.243.47", "DestinationPort": 52670, "UserAgent": "G646D4bw6wXgOYd9X2pd"}
+{"EventID": 909, "Provider": "example_provider", "Version": "1.0", "Level": 2, "Task": 1, "Opcode": 0, "Keywords": "0x523677EFf67F8322", "TimeCreated": "2024-04-13T12:36:48Z", "EventRecordID": 47520, "ProcessID": 210, "ThreadID": 938, "User": "zpefo", "ProcessName": "wridnfdi.exe", "Direction": "Inbound", "InitiatingProcessID": 169, "SourceIP": "173.203.44.160", "SourcePort": 7862, "DestinationIP": "31.41.178.212", "DestinationPort": 36674, "UserAgent": "7WhfCfWTN13C4c0Qq0MA"}
+{"EventID": 444, "Provider": "example_provider", "Version": "1.0", "Level": 3, "Task": 9, "Opcode": 0, "Keywords": "0xBED97F84ee9Bd3AF", "TimeCreated": "2024-04-13T12:36:48Z", "EventRecordID": 46586, "ProcessID": 563, "ThreadID": 2224, "User": "fvnxj", "ProcessName": "cvnqibia.exe", "Direction": "Outbound", "InitiatingProcessID": 558, "SourceIP": "243.219.192.162", "SourcePort": 37847, "DestinationIP": "157.21.242.98", "DestinationPort": 30536, "UserAgent": "5VqZxZDuIDJlHy09hqsT"}
+
+
+Event Time : 2024-04-13 18:06:48
+{"@timestamp": "2024-04-13T12:36:48.466572", "User": "user2", "Server": "server3", "Client IP": "10.0.0.1", "Event Category": "Data Modification", "Event Type": "Update", "Message": "User 'user2' on server 'server3' executed Insert statement: INSERT INTO dbo.Customers (Name, Email) VALUES ('New Customer', 'newcustomer@example.com')"}
+{"@timestamp": "2024-04-13T12:36:48.466572", "User": "user2", "Server": "server3", "Client IP": "192.168.1.10", "Event Category": "Privilege Escalation", "Event Type": "Grant Permission", "Message": "Ownership of view 'dbo.Orders' on server 'server3' changed from 'user2' to 'admin'"}
+{"@timestamp": "2024-04-13T12:36:48.466572", "User": "guest", "Server": "server1", "Client IP": "192.168.1.10", "Event Category": "Data Modification", "Event Type": "Delete", "Message": "User 'guest' on server 'server1' executed Insert statement: INSERT INTO dbo.Customers (Name, Email) VALUES ('New Customer', 'newcustomer@example.com')"}
+
+

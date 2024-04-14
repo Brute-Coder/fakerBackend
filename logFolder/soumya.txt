@@ -1,0 +1,16 @@
+Event Time : 2024-04-13 17:56:11
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4847, "User": "FABRIKAM", "Category": "Warning", "Description": "Standard event generated for user 'FABRIKAM\\jdoe' on computer 'contoso.com\\CLIENT01'."}
+
+
+Event Time : 2024-04-13 17:57:25
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4722, "User": "CONTOSO", "Category": "Failure Audit", "Description": "Standard event generated for user 'CONTOSO\\bjones' on computer 'contoso.com\\CLIENT01'."}
+
+
+Event Time : 2024-04-13 17:57:59
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4781, "User": "CONTOSO", "Category": "Success Audit", "Description": "Group management event detected for group 'SampleGroup'."}
+
+
+Event Time : 2024-04-13 17:58:00
+{"Log Name": "Security", "Source": "Active Directory", "Event ID": 4690, "User": "FABRIKAM", "Category": "Success Audit", "Description": "Account lockout detected for user 'FABRIKAM\\user1' on computer 'contoso.com\\SERVER01'."}
+
+

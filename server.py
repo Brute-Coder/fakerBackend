@@ -87,7 +87,7 @@ def generate_directory_events():
 def sFlow():
     eventQty = int(request.args.get('qty'))
     saveLog = bool(int(request.args.get('savelog')))
-    events = directory_events_loop(eventQty)
+    events = generate_sFlow(eventQty)
     if saveLog:
         file_name = request.args.get('filename')
         if not file_name:
